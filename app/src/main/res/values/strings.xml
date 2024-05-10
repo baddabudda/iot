@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">iot</string>
+    <string name="soil_percentage">Soil is %1$d%% dry</string>
+    <string name="soil_value">Sensor data: %1$d</string>
+
+    <string name="water_percentage">Water tank is %1$d%% full</string>
+    <string name="water_value">Sensor data: %1$.2f cm</string>
+    <string name="last_check">Last checked at %1s</string>
+</resources>
